@@ -27,8 +27,6 @@ function somaMyVar2() {
    return `o valor da variável agora é ` + myvar2;
 }
 
-console.log(somaMyVar2())
-
 // Invoque a função criada acima.
 somaMyVar2()
 
@@ -49,8 +47,6 @@ function seguinte(a,b,c) {
       return (a * b * c) + 2
    }
 }
-
-console.log(seguinte(2, 2, 3))
 
 // Invoque a função criada acima, passando só dois números como argumento.
 seguinte(2, 2)
