@@ -15,7 +15,7 @@ var myvar = somaGay(10, 10) + 5; console.log(myvar)
 25;
 
 // Declare uma nova variável, sem valor.
-var myvar2 = 0
+var myvar2;
 
 /*
 Crie uma função que adicione um valor à variável criada acima, e retorne a string:
