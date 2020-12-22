@@ -90,8 +90,8 @@ function vamola(a, b, c) {
 
 // Invoque a função acima utilizando todas as possibilidades (com nenhum argumento, com um, com dois e com três.) Coloque um comentário de linha ao lado da função com o resultado de cada invocação.
 
-console.log(vamola())
-console.log(vamola(10))
-console.log(vamola(10, 20))
-console.log(vamola(10, 20, 30))
+vamola() // false;
+vamola(10) // 10;
+vamola(10, 20) // 30;
+vamola(10, 20, 30) // 1;
 ```
